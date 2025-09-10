@@ -2,6 +2,7 @@ __pycache__/
 env/
 misc/
 temp/
+.streamlit/
 
 secrets.toml
 .env
