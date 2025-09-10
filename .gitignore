@@ -3,5 +3,6 @@ env/
 misc/
 temp/
 
+secrets.toml
 .env
 test.py
